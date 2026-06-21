@@ -1,4 +1,4 @@
-# PT-BR Clinical AI Safety & Mental Health Career Guidance Evaluation
+# EN-US Clinical AI Safety & Mental Health Career Guidance Evaluation
 
 An independent portfolio project evaluating how generative AI responds to high-stakes mental health situations and career questions from mental health professionals in U.S. English.
 
